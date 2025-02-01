@@ -27,7 +27,7 @@
     "axios": "^1.7.9",
     "babel-loader": "^9.2.1",
     "clsx": "^2.1.1",
-    "framer-motion": "^11.18.2",
+    "framer-motion": "^12.0.0",
     "htmr": "^1.0.2",
     "jotai": "^2.11.2",
     "mdx-prism": "^0.3.4",
